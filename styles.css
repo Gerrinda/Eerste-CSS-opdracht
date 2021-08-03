@@ -1,0 +1,18 @@
+body { 
+    color: red;
+}
+.black-border {
+    border: 5px solid black;
+}
+#green-background {
+    background-color: green;
+}
+.font {
+    font-size: 150%;
+}  
+.style {
+    font-style: serif;
+}  
+.background {
+     background-color: darkgray;
+}  
